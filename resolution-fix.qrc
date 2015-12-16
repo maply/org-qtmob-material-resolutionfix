@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ResolutionFix.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
