@@ -1,2 +1,2 @@
-module ResolutionFix
+module org.qtmob.material.resolutionfix
 singleton ResolutionFix 1.0 ResolutionFix.qml
