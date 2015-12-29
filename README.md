@@ -16,7 +16,7 @@ git submodule update
 Include the project into your app's .pro file:  
 `include(lib/resolutionfix/org_qtmob_material_resolutionfix.pri)`
 
-Add the qrc path to the QML engine import path (usually in main.cpp):
+Add the qrc path to the QML engine import path (usually in main.cpp):  
 `engine.addImportPath("qrc:/");`
 
 ## Usage example
