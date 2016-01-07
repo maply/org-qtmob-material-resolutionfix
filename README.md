@@ -1,4 +1,4 @@
-# resolution-fix
+# org.qtmob.material.resolutionfix
 A resolution fix for qml-material targeting specific devices
 
 Requires [qml-material](http://github.com/papyros/qml-material).
