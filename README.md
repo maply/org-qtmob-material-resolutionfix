@@ -1,5 +1,5 @@
 # org.qtmob.material.resolutionfix
-A resolution fix for [qml-material](http://github.com/papyros/qml-material) targeting specific devices.
+A resolution fix for [qml-material](http://github.com/papyros/qml-material) targeting specific devices
 
 ## Installation
 
