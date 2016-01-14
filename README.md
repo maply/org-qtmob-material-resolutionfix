@@ -5,8 +5,13 @@ A resolution fix for [qml-material](http://github.com/papyros/qml-material) targ
 
 Within your app's project folder:
 
+`git submodule add https://github.com/maply/org.qtmob.material.resolutionfix lib/org/qtmob/material/resolutionfix`
+
+Commit to add the submodule's reference permanently to your repo.
+
+When subsequently cloning your repo, just do:
+
 ```
-git submodule add https://github.com/maply/org.qtmob.material.resolutionfix lib/org/qtmob/material/resolutionfix
 git submodule init
 git submodule update
 ```
