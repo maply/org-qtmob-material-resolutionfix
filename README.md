@@ -12,7 +12,7 @@ git submodule update
 ```
 
 Include the project into your app's .pro file:  
-`include(lib/org.qtmob.material.resolutionfix/org_qtmob_material_resolutionfix.pri)`
+`include(lib/org/qtmob/material/resolutionfix/org_qtmob_material_resolutionfix.pri)`
 
 For autocompletion and syntax highlighting in Qt Creator, add the following to your app's .pro file:  
 `QML_IMPORT_PATH += $$PWD/lib`
